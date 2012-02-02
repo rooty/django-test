@@ -1,0 +1,17 @@
+media/*
+*.pyc
+*.pyo
+*.pyw
+.idea
+*.tar.gz
+*.db
+*~
+*.htm
+/media/*
+/nbproject*
+/local_settings.py
+/vosingenium_dev
+.project
+.pydevproject
+.settings/*
+
