@@ -126,7 +126,7 @@ INSTALLED_APPS = (
     'blog',
 )
 
-POST_PER_PAGE = 2
+POST_PER_PAGE = 10
 
 # A sample logging configuration. The only tangible logging
 # performed by this configuration is to send an email to
